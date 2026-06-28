@@ -52,6 +52,18 @@ AI-Recruiter/
 
 ---
 
+## Dataset
+
+This project uses the `candidates.jsonl` dataset provided by the hackathon organizers.
+
+Due to GitHub's 100 MB file size limit, the dataset is **not included** in this repository.
+
+Please place the dataset in the following location before running the backend:
+
+```text
+backend/candidates.jsonl
+```
+
 ## Backend Setup
 
 Navigate to the backend folder:
