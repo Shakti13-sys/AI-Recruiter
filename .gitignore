@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Generated Files
+backend/uploaded_jd.docx
+backend/submission.csv
+backend/submission.json
+
+# VS Code
+.vscode/
+tempCodeRunner.py
+
+# Frontend
+frontend/node_modules/
+
+# OS Files
+.DS_Store
+Thumbs.db
