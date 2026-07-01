@@ -58,11 +58,16 @@ This project uses the `candidates.jsonl` dataset provided by the hackathon organ
 
 Due to GitHub's 100 MB file size limit, the dataset is **not included** in this repository.
 
-Please place the dataset in the following location before running the backend:
+To run the project:
+
+1. Download or use the `candidates.jsonl` file provided by the hackathon organizers.
+2. Place it inside the `backend` folder:
 
 ```text
 backend/candidates.jsonl
 ```
+
+The application will automatically load the dataset from this location.
 
 ## Backend Setup
 
