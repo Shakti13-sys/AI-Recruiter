@@ -312,7 +312,7 @@ export default function App() {
             className="mt-16 grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-3xl mx-auto"
           >
             {[
-              { icon: Zap, label: 'Fast Processing', value: '< 2s', colors: ["#22d3ee", "#818cf8"] },
+              { icon: Zap, label: 'Average Processing', value: '< 2 min', colors: ["#22d3ee", "#818cf8"] },
               { icon: Shield, label: 'AI Powered', value: 'GPT-4o', colors: ["#818cf8", "#34d399"] },
               { icon: TrendingUp, label: 'Accuracy', value: '96.8%', colors: ["#34d399", "#22d3ee"] },
               { icon: Users, label: 'Candidates', value: 'Unlimited', colors: ["#22d3ee", "#818cf8", "#34d399"] },

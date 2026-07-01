@@ -179,4 +179,5 @@ Example:
 
 ## Author
 
+
 Developed as an AI-powered recruitment and candidate ranking system using modern NLP and semantic search techniques.
